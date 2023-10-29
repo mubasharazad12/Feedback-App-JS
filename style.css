@@ -71,7 +71,7 @@ button {
 
 /* BASE */
 .body {
-    background-image: linear-gradient(200deg, #654a86, #534292);
+    background-image: linear-gradient(200deg, #000000, #ffffff);
     min-height: 100vh;
     font-family: 'Inter', sans-serif;
     display: flex;
@@ -119,7 +119,7 @@ button {
 /* HEADER */
 .header {
     height: 277px;
-    background-color: #121618;
+    background-color: #17323f;
     display: flex;
     flex-direction: column;
     align-items: center;
